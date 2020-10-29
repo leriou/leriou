@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 - gooad at Redis, elasticsearch and kafka 
 
 
-u can know more things about me by [https://leriou.github.io](https://leriou.github.io)
+u can find me here [https://leriou.github.io](https://leriou.github.io)
