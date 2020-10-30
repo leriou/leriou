@@ -2,8 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning rust and Reinforcement Learning
-- gooad at Redis, elasticsearch and kafka 
+- 🌱 currently learning rust and Reinforcement Learning
+- Well versed in CS fundamentals, data structures and algorithms;
+- Proficent in Redis, elasticsearch, kafka, flink etc.
 
 
 u can find me here [https://leriou.github.io](https://leriou.github.io)
